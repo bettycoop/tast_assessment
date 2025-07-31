@@ -1,0 +1,2 @@
+No hidden file input found in drag-drop area
+Drag-drop upload without file result: Internal Server Error

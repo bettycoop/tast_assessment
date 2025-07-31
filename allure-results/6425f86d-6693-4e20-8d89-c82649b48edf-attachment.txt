@@ -1,0 +1,5 @@
+Current URL after upload without file: https://the-internet.herokuapp.com/upload
+Page title: 
+Page content preview: Internal Server Error
+All headings on page: [ 'Internal Server Error' ]
+Body text content: Internal Server Error
